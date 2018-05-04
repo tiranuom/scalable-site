@@ -1,11 +1,13 @@
-#Introduction
+Introduction
+============
 
 This collection of notes are collected and organized to compose a comprehensive guide on developing single page 
 web applications based on newest technologies at the time of written. The content are planned to be organized in a 
 simplified and comprehensive manner, addressing the major aspects of web application development and the 
 technologies behind.
 
-##Chapters
+Chapters
+--------
 
 1. [Web - A simplified history](./web-a-simplified-history.md)
 1. [Lets define **the** web site]()
