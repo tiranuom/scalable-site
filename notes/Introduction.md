@@ -31,7 +31,7 @@ Chapters
 1. [Talking to the server - Ajax]()
 1. [Localization _(json based i18n resolving)_]()
 1. [Style your site]()
-1. Analytics Integration()
+1. [Analytics Integration]()
 1. [Search engine optimization]()
 1. [How to design your site for test automation]()
 1. [A note on react native mobile application development]()
