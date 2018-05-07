@@ -1,6 +1,5 @@
 # Introduction
 
-
 This collection of notes are collected and organized to compose a comprehensive guide on developing single page web applications based on newest technologies at the time of written. The content are planned to be organized in a simplified and comprehensive manner, addressing the major aspects of web application development and the technologies behind.
 
 ## Disclaimer
@@ -39,6 +38,7 @@ This notes are orgianized in following manner.
 1. [Talking to the server - Ajax]()
 1. [Localization _(json based i18n resolving)_]()
 1. [Style your site]()
+1. [Analytics Integration]()
 1. [Search engine optimization]()
 1. [How to design your site for test automation]()
 1. [A note on react native mobile application development]()
